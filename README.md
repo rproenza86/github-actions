@@ -3,6 +3,8 @@
 
 # Bootstrap 4 layouts
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/rproenza86/github-actions.svg)](https://greenkeeper.io/)
+
 This repository is a template for building responsive websites for Bootstrap 4. It provides a quick template for getting started with different layouts. It's based on a course I built for LinkedIn learning called [Bootstrap 4 Layouts: Responsive Single-Page Design](https://www.linkedin.com/learning/bootstrap-4-layouts-responsive-single-page-design/creating-a-bootstrap-4-layout?u=104). If you want to see a demo of the layouts, check out: [raybo.org/bootstrap4layouts/](http://www.raybo.org/bootstrap4layouts/)
 
 There are several different layouts available:
